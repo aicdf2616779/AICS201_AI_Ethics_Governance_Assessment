@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Sensitive files
+.env
+*.pem
+*.key
+credentials.json
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
