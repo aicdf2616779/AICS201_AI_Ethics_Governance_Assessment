@@ -1,0 +1,12 @@
+AICS-201 BIAS MITIGATION EXPERIMENT
+==================================================
+Algorithm: Fairlearn ExponentiatedGradient
+Constraint: DemographicParity
+Reference: Synthetic neutral_approved labels
+Financial features only: Yes
+Gender-constrained model: Yes
+Region-constrained model: Yes
+Evaluation: Held-out test dataset
+Test size: 25 percent
+Random state: 42
+Note: This is an educational simulation, not a production lending model.

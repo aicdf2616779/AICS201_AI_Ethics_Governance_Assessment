@@ -1,0 +1,3 @@
+protected_attribute,demographic_parity_difference,demographic_parity_ratio,equal_opportunity_difference,overall_ai_accuracy_vs_baseline
+gender,0.12424431936627062,0.7413418974047391,0.25112008582066014,0.9025
+region_type,0.06650266599183136,0.8495579933965278,0.16392286501377418,0.9025

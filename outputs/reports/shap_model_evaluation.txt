@@ -1,0 +1,12 @@
+AICS-201 SHAP MODEL EVALUATION
+=============================================
+Surrogate test accuracy: 0.9033
+
+              precision    recall  f1-score   support
+
+           0       0.92      0.91      0.92       175
+           1       0.88      0.90      0.89       125
+
+    accuracy                           0.90       300
+   macro avg       0.90      0.90      0.90       300
+weighted avg       0.90      0.90      0.90       300

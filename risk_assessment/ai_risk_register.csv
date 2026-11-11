@@ -1,0 +1,12 @@
+
+risk_id,category,risk_description,likelihood,impact,inherent_risk,accountable_owner,proposed_control,residual_risk,treatment_priority
+R001,Algorithmic Bias,Gender-based approval disparities may disadvantage female applicants,High,High,High,Chief AI Officer,Remove gender from decision features and conduct regular gender fairness audits,Medium,Critical
+R002,Geographical Discrimination,Rural applicants may receive systematically lower approval rates,High,High,High,Head of Model Risk,Investigate proxy variables and conduct regional fairness testing,Medium,High
+R003,Data Privacy,Excessive collection or processing of customer personal information,Medium,High,High,Data Protection Officer,Data minimisation access controls encryption and retention policies,Low,High
+R004,Lack of Transparency,Applicants may not understand automated financial decisions,High,High,High,Head of Compliance,Provide understandable explanations and documented decision reasons,Medium,High
+R005,Insufficient Human Oversight,Automated decisions may be applied without meaningful human review,Medium,High,High,Chief Operating Officer,Introduce human review and appeal mechanisms for adverse decisions,Low,High
+R006,Model Drift,Changes in applicant populations may reduce model reliability over time,Medium,High,High,ML Engineering Lead,Monitor model performance and conduct scheduled reassessments,Medium,High
+R007,Data Security,Unauthorised access or disclosure of sensitive financial information,Medium,High,High,Chief Information Security Officer,Encryption access control logging backups and incident response procedures,Medium,High
+R008,Regulatory Non-compliance,Failure to meet applicable data protection and AI regulatory obligations,Medium,High,High,Legal and Compliance Officer,Conduct regulatory impact assessments and periodic compliance reviews,Low,High
+R009,Incorrect Fraud Detection,Legitimate transactions may be incorrectly flagged as suspicious,Medium,High,High,Head of Fraud Operations,Use human investigation and monitor false positive rates,Medium,High
+R010,Accountability Gaps,Unclear responsibility for AI-related errors and customer harm,Medium,High,High,Board Risk Committee,Establish an AI governance committee and clear escalation procedures,Low,High

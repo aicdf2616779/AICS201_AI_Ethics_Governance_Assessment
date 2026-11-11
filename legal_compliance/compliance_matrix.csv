@@ -1,0 +1,15 @@
+
+framework,provision,requirement,identified_gap,recommended_action,responsible_owner,status
+NDPA 2023,Section 24,Lawful fair transparent processing,Group-based decision penalties,Review features and implement fairness controls,Chief AI Officer,Remediation required
+NDPA 2023,Section 25,Establish lawful processing basis,Lawful basis not documented,Document lawful basis for each processing activity,Legal and Compliance Officer,Pending
+NDPA 2023,Section 27,Inform data subjects about automated processing,No applicant notification process,Develop clear privacy notices and decision explanations,Head of Compliance,Pending
+NDPA 2023,Section 28,Conduct DPIA for likely high-risk processing,DPIA not completed,Complete DPIA before deployment,Data Protection Officer,Remediation required
+NDPA 2023,Section 29,Manage data processor obligations,Processor agreements not documented,Establish written processor agreements,Data Protection Officer,Pending
+NDPA 2023,Section 32,Designate DPO where required,Appointment not evidenced,Verify applicability and designate qualified DPO,Board Risk Committee,Pending
+NDPA 2023,Section 37,Safeguards for solely automated significant decisions,Human review and appeal not implemented,Introduce human intervention and challenge procedures,Chief Operating Officer,Remediation required
+NDPA 2023,Section 39,Protect personal data,Production security controls not tested,Conduct security assessment and implement encryption,Chief Information Security Officer,Pending
+NDPA 2023,Section 40,Manage personal data breach notifications,Incident response not tested,Establish breach response and notification procedure,Chief Information Security Officer,Pending
+EU AI Act,Article 2,Assess territorial applicability,EU market exposure not established,Document EU nexus assessment,Legal and Compliance Officer,Conditional
+EU AI Act,Annex III 5(b),Assess creditworthiness high-risk classification,High-risk obligations not assessed,Complete classification and applicable conformity assessment,Head of Model Risk,Conditional
+UNESCO,2021 Recommendation,Human rights fairness and transparency,Ethical safeguards require formal approval,Adopt ethical review and accountability controls,Chief AI Officer,Recommended
+OECD,2024 AI Principles,Transparency robustness and accountability,Lifecycle controls require formalisation,Implement ongoing AI risk management,Board Risk Committee,Recommended

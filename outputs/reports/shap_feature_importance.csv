@@ -1,0 +1,11 @@
+feature,mean_absolute_shap
+debt_to_income_ratio,0.16263048506481817
+monthly_income_ngn,0.13323529431583506
+credit_history_months,0.10529781062996695
+missed_payments_12m,0.08874886361201756
+employment_years,0.030537762529064517
+gender_Female,0.01800555908389093
+gender_Male,0.012958238117222808
+region_type_Urban,0.006979438780949708
+region_type_Rural,0.00655770096098127
+age,0.005530510608366556

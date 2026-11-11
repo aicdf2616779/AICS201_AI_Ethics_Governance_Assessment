@@ -1,0 +1,5 @@
+protected_attribute,gender,selection_rate,true_positive_rate,sample_count,region_type
+gender,Female,0.35609756097560974,0.6886792452830188,615.0,
+gender,Male,0.48034188034188036,0.939799331103679,585.0,
+region_type,,0.37554585152838427,0.7107438016528925,458.0,Rural
+region_type,,0.4420485175202156,0.8746666666666667,742.0,Urban
